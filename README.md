@@ -1,5 +1,5 @@
 # Using-Linux-to-Manage-File-Permissions
-## Demonstration of experience using Linux commands to manage file permissions
+## Demonstration of experience using Linux commands to manage file permissions through Google Cybersecurity Certificate program
 
 ### Scenario is as follows:
 You are a security professional at a large organization. You mainly work with their research team. Part of your job is to ensure users on this team are authorized with the appropriate permissions. This helps keep the system secure. 
